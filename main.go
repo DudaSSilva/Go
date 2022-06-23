@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	var n1, n2 float32
+  var n1, n2 float32
   var operacao string
   var sair string = "sim"
 
