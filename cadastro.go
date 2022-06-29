@@ -66,7 +66,7 @@ func main() {
       notas: notaAluno,
     }
 
-    fmt.Println("Aluno cadastrado! Deseja exibir as informações deste aluno?")
+    fmt.Print("\nAluno cadastrado! Deseja exibir as informações deste aluno?")
     fmt.Scan(&exibir)
 
     if exibir == "sim"{
